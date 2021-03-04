@@ -4,8 +4,10 @@ body {
 }
 
 a {
-    color: grey;
-    margin: 2px;
+   color: grey;
+}
+footer a {
+   margin: 5px;
 }
 
 .croissant {
