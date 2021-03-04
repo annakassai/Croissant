@@ -1,0 +1,15 @@
+body {
+    background-color: lightpink;
+    text-align: center;
+}
+
+a {
+    color: grey;
+    margin: 2px;
+}
+
+.croissant {
+    max-width: 40%;
+    border-radius: 20px;
+    margin: 5px;
+}
